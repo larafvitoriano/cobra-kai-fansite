@@ -8,7 +8,7 @@ HTML5 e CSS3.
 Concluído ✅
 
 ## Acesso ao Projeto
-Acesso através do Github Pages.
+Acesso através do Github Pages: https://larafvitoriano.github.io/cobra-kai-fansite/.
 
 ## Desenvolvedora
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/88752895?v=4" width=115><br><sub>Lara Fernanda</sub>](https://github.com/larafvitoriano)
